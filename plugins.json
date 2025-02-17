@@ -348,5 +348,10 @@
         "desc": "群老婆插件，记得点右上角帮助查看readme",
         "author": "长安某",
         "repo": "https://github.com/zgojin/astrbot_plugin_AW"
+    },
+    "astrbot_plugin_Start_NapCat":{
+        "desc": "start NapCat Automatically when starting AstrBot. 启动自动打开NapCat",
+        "author": "AstralGuardian",
+        "repo": "https://github.com/FallenAngelSariel/AstrBot_Plugin_Start_NapCat.git"
     }
 }
