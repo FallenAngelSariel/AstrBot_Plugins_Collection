@@ -353,5 +353,11 @@
         "desc": "start NapCat Automatically when starting AstrBot. 启动自动打开NapCat",
         "author": "AstralGuardian",
         "repo": "https://github.com/FallenAngelSariel/AstrBot_Plugin_Start_NapCat.git"
+    },
+    "astrbot_plugin_Start_NapCat":{
+        "desc": "接入本地部署的GPT-SoVITS",
+        "author": "AstralGuardian",
+        "repo": "https://github.com/FallenAngelSariel/AstrBot_Plugin_GPT_SoVITS.git"
     }
+    
 }
